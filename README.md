@@ -1,5 +1,5 @@
 # Semtech-wMBusReceiver
-wmBusReceiver with SX1272 / RF95-SX1276: see RT-STM32L476RG-NUCLEO64-SX1272.
+wmBusReceiver with SX1272 / RF95-SX1276: see chibios182/demos/STM32/RT-STM32L476RG-NUCLEO64-SX1272.
 
 To get an idea of what is changed in "official" drivers from https://github.com/Lora-net/LoRaMac-node compare directories under RT-STM32L476RG-NUCLEO64-SX1272/drivers/src with same directories from RT-STM32L476RG-NUCLEO64-SX1272/doc/LoRaMac-node-master.zip/LoRaMac-node-master/src.
 
